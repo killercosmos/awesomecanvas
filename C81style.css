@@ -1,0 +1,17 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+
+
+#myCanvas{
+border: 10px;
+background-color: white;
+
+}
+body{
+	text-align: center;
+	background-image: "bg1.jpg";
+}
